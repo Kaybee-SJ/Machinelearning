@@ -19,7 +19,8 @@ The analysis was carried out as part of the MSc Data Science module COMP1886(Uni
 - **`notebooks/`** – Python notebooks implementing each task (EDA, preprocessing, prediction, classification).  
 - **`report/`** – Final PDF report summarising analysis, visualisations, and findings.  
 - **`requirements.txt`** – Python dependencies for running the code.  
-- **`data/`** – Coursework dataset (if shareable; otherwise instructions to request/download).  
+- **`data/`** – Coursework dataset.
+-  **`Others/`** – Other visualisations used during the project (Some are not included in the report). 
 
 ---
 
